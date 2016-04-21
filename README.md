@@ -13,6 +13,7 @@ files:
 
 1. deploy_xx.sql 
    command to run sqlplus xx_user/xx_password@tns_name @deploy_xx.sql
+   
    deploy_xx.log will be created
 
 2. pkg_securities.pck
